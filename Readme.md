@@ -1,7 +1,8 @@
 # ![FluentSecurity](https://github.com/kristofferahl/FluentSecurity/raw/master/Documents/Fluent-Security-Logo-100x100.png)
 
-## Slides for the "FluentSecurity – Bad ass security for ASP.NET MVC and Web API" talk at DevSum 2014
-The demo application can be found at: https://github.com/kristofferahl/FluentSecurity-Sample
+## DevSum 2014 slides
+Slides for the "FluentSecurity – Bad ass security for ASP.NET MVC and Web API" talk at DevSum 2014   
+The demo application can be found at: https://github.com/kristofferahl/FluentSecurity-Sample   
 
 ## Website
 http://www.fluentsecurity.net/
